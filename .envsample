@@ -1,0 +1,7 @@
+ENVIRONMENT=production 
+to=recruit_testing@mailinator.com
+bcc=bcctestingrecruit@mailinator.com
+cc=cctestingrecruit@mailinator.com
+origin=hr
+database= your mongo uri
+base_url = base_url of system
