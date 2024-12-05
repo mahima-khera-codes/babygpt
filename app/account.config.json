@@ -1,0 +1,44 @@
+{
+    "notify_hr_live" : {
+        "mongodb" : {
+            "host" : null,
+            "db" : null
+        }
+    },
+    "notify_hr_staging" : {
+        "mongodb" : {
+            "host" : null,
+            "db" : null
+        }
+    },
+    "notify_tms" : {
+        "mongodb" : {
+            "host" : null,
+            "db" : null
+        }
+    },
+    "devrecruit" : {
+        "mongodb" : {
+            "host" : null, 
+            "db" : null
+        }
+    },
+    "excellencerecruit" : {
+        "mongodb" : {
+            "host" : "mongodb://root:recruitai567@116.202.234.182:27070/excellence_recruit?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+            "db" : "excellence_notify"
+        }
+    },
+    "platoorecruit" : {
+        "mongodb" : {
+            "host" : "mongodb://root:recruitai567@116.202.234.182:27070/excellence_recruit?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+            "db" : "platoo_notify"
+        }
+    },
+    "rocketrecruit" : {
+        "mongodb" : {
+            "host" : null,
+            "db" : null
+        }
+    }
+}
